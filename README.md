@@ -36,7 +36,7 @@ Coffee is designed around a few core components:
 
 ### **Installation:**
 
-git clone \[https://github.com/your-username/coffee-terminal-assistant.git\](https://github.com/your-username/coffee-terminal-assistant.git)  
+git clone \[[(https://github.com/clubevilinc/coffee/).git\] 
 cd coffee-terminal-assistant  
 pip install \-r requirements.txt
 
